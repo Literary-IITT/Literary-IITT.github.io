@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://literary-iitt.github.io/lac-hugo-website/"
+baseURL = "https://literary-iitt.github.io/lac-hugo-website"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
