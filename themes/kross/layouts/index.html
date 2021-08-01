@@ -80,12 +80,16 @@
         {{ range .item }}
         <div class="col-lg-3 col-sm-6 mb-4">
           <div class="card shadow text-center">
+            <a href="{{.link}}" target="_blank">
             <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
-              <div class="wave" data-progress="{{.progress}}"></div>
+              {{ $end := .deadline | time }}
+              {{ $diff := $end.Sub now }}
+              <div class="wave" data-progress="{{sub 100 (mul 100 (div $diff.Hours .hours))}}"></div>
             </div>
             <div class="card-footer bg-white">
-              <h4 class="card-title">{{.title }} ({{.progress}})</h4>
+              <h4 class="card-title">{{.title }} Deadline: {{.deadline}}</h4>
             </div>
+            </a>
           </div>
         </div>
         {{ end }}
