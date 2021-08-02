@@ -1,46 +1,20 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
+title: "Have We Met Before"
+date: 2021-07-04T12:14:34+06:00
+image: "images/blog/post-6.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+### Summary:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The Literary Affairs Council (LAC) in collaboration with the Guidance and Counselling Unit (GCU) is elated to present you with ‘Have We Met Before?’, an institute-wide interactive event that is open to all UG and PG students. It is a team-based event in which seniors and juniors come together as a team to participate in a variety of activities.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+As accurately pointed out by an alumnus, “Contrary to popular belief, the most cherished memories lie in the simplest of things, the two-minute conversations that snowball into night-long chats, the leisurely strolls around campus, and the inside jokes cracked during classes”. Watching cricket matches in the mess, chilling out in the Open Air Theatre, the long wait in the mess on a Sunday afternoon (as painful as they are) to get a plate of biryani, all these small memories come together to make up the entire college experience. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+But today, we’re in a situation where we cannot even meet if we wanted to. A video call is the closest we can get to talking to a friend in real life. Even that requires us to actively take time out of our busy schedules! In this virtual mode, the chances of talking to our classmates has drastically decreased, and senior-junior interaction has become virtually obsolete.
+
+As a team, all of us at LAC understand and relate to the problem of this increasing communication gap. With that in mind, we have cooked up an event to address the problem the best way we can! “Have we met before?” is filled with fun interactive activities to engage you, irrespective of whether you are introverted or extroverted. We might not be able to simulate a real life experience in a tiny 2-hour event, but we are sure you will make joyful memories that you can cherish!
+
+We will be hosting the event on the Discord platform. A Discord server has been created for the event, and it will be configured to make it handy even for beginners. We’ll be sharing the link with all the participants and volunteers shortly. 
