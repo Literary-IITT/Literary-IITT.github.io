@@ -66,7 +66,7 @@ skill:
 # blog
 blog:
   enable : true
-  title : "Events"
+  title : "Events hosted"
   # blog post comes from "content/blog" folder
 
 # service
@@ -87,6 +87,7 @@ service:
       icon : "ti-panel"
       content : "The first student-run campus newsletter of Indian Institute of Technology, Tirupati."
       highlighted : true
+      Link: "https://udaaniitt.web.app/"
       button:
         enable : true
         label : "know more"
@@ -102,10 +103,10 @@ service:
         URL : "https://udaaniitt.web.app/"
 
 # portfolio
-portfolio:
-  enable : true
-  title : "Featured Entries"
-  item_show : 5
+#portfolio:
+#  enable : true
+#  title : "Featured Entries"
+#  item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
  #testimonial
