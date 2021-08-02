@@ -74,8 +74,8 @@
   <section class="section">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <div class="col-12 text-center">
+          <h2 class="section-title mb-5">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
         <div class="col-lg-3 col-sm-6 mb-4">
@@ -170,9 +170,15 @@
         <div class="col-md-4 mb-4">
           <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
             <div class="card-body text-center px-4 py-5">
-              <i class="{{.icon }} icon mb-5 d-inline-block"></i>
-              <h4 class="mb-4">{{.title}}</h4>
-              <p>{{.content | markdownify}}</p>
+              <h3 class="mb-4">{{.title}}</h3>
+              <p>
+                {{.content | markdownify}}
+                {{ if .button.enable }}
+                {{ with .button }}
+                <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+                {{ end }}
+                {{ end }}
+              </p>
             </div>
           </div>
         </div>

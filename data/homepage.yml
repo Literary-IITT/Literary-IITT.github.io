@@ -19,7 +19,7 @@ skill:
     - title : "Bonk Prabhat"
       deadline : "2021-08-07"
       hours : 150
-      link : "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      link : "about"
       color : "#fdb157"
 
 # experience
@@ -77,6 +77,10 @@ service:
       icon : "ti-panel"
       content : "The first student-run campus newsletter of Indian Institute of Technology, Tirupati."
       highlighted : true
+      button:
+        enable : true
+        label : "know more"
+        URL : "https://udaaniitt.web.app/"
 
     - title : "Quiz Club"
       icon : "ti-vector"
@@ -90,7 +94,7 @@ portfolio:
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
-# testimonial
+ #testimonial
 testimonial:
   enable : true
   title : "Testimonials"
