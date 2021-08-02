@@ -1,41 +1,101 @@
 # work process
-work_process:
-  enable : true
-  title : "Work Process"
-  item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#work_process:
+# enable : true
+#  title : "Work Process"
+#  item:
+#  - title : "Research and Plan"
+#    icon : "images/icons/plan.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title : "Design and Develop"
+#    icon : "images/icons/design.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title : "Deliver"
+#    icon : "images/icons/print.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # team
 team:
   enable: true
-  title : "My Team"
+  title : "LAC: 2021-22"
   team_member:
-    - title : "Jack Schenziwe"
+    - title : "XXXX"
+      image: "images/team/member-1.png"
+      designation : "Literary Affairs Secretary"
+      
+    - title : "YYYY"
+      image : "images/portfolio/member-2.png"
+      designation : "Member"
+      
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Member"
       
-    - title : "Julias Carlie"
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : "images/team/member-1.png"
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : "images/team/member-2.png"
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
+
+    - title : "YYYY"
+      image : "images/team/member-1.png"
+      designation : "Member"
+
+    - title : "YYYY"
+      image : ""
+      designation : "Member"
 
 
 # client logo slider
-clients_logo_slider:
-  enable : true
-  title : "My Clients"
+#clients_logo_slider:
+#  enable : true
+#  title : "My Clients"
   # clients logo comes from 'data/homepage.yml' file
