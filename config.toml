@@ -3,7 +3,7 @@ baseURL = "https://literary-iitt.github.io/lac-hugo-website"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
-title = "LAC IITT"
+title = "Literary Affairs Council"
 
 # css plugins
 [[params.plugins.css]]
