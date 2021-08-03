@@ -66,7 +66,7 @@ liveevents:
 #       year : "1998"
 #       academy : "Cardiff School"
 
-# blog
+# events
 events:
   enable : true
   title : "Events"
@@ -78,7 +78,6 @@ service:
   title : "Our Clubs and Newsletter"
   item:
     - title : "Debate and Oratory Club"
-      icon : "ti-palette"
       content : "A place for all things Debating! Encourging everyone to express ideas and debate to reach constructive conclusions."
       highlighted : false
       button:
@@ -87,7 +86,6 @@ service:
         URL : "https://udaaniitt.web.app/"
 
     - title : "Udaan"
-      icon : "ti-panel"
       content : "The first student-run campus newsletter of Indian Institute of Technology, Tirupati."
       highlighted : true
       Link: "https://udaaniitt.web.app/"
@@ -97,7 +95,6 @@ service:
         URL : "https://udaaniitt.web.app/"
 
     - title : "Quiz Club"
-      icon : "ti-vector"
       content : "Quiz Club offers a unique and exciting way to motivate and reward students in their quest for knowledge."
       highlighted : false
       button:

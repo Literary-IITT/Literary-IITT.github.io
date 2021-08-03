@@ -106,7 +106,7 @@
   {{ end }}
   {{ end }}
 
-    {{ if site.Data.homepage.events.enable }}
+  {{ if site.Data.homepage.events.enable }}
   <!-- events -->
   <section class="section">
     <div class="container">
@@ -114,7 +114,7 @@
         <div class="col-12 text-center">
           <h2 class="section-title">{{site.Data.homepage.events.title | markdownify }}</h2>
         </div>
-        {{ range first 2 (where .Site.RegularPages "Section" "events")}}
+        {{ range first 3 (where .Site.RegularPages "Section" "events")}}
         {{ .Render "post" }}
         {{ end }}
       </div>
