@@ -34,12 +34,12 @@ name = "About"
 weight = 1
 
 [[menu.main]]
-URL = "blog"
+URL = "events"
 name = "Events"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio"
+URL = "previous"
 name = "Previous Years"
 weight = 3
 

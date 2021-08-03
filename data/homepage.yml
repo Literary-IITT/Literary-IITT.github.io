@@ -11,8 +11,8 @@ about:
     label : "know more"
     URL : "about"
 
-# skill
-skill:
+# events
+events:
   enable : true
   title : "Active Events"
   item:

@@ -68,9 +68,9 @@
   {{ end }}
 
 
-  {{ if site.Data.homepage.skill.enable }}
-  {{ with site.Data.homepage.skill }}
-  <!-- skills -->
+  {{ if site.Data.homepage.events.enable }}
+  {{ with site.Data.homepage.events }}
+  <!-- events -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -93,7 +93,7 @@
                 <a href="{{ .site | absURL }}" class="btn btn-light">Know More</a>
                 <a href="{{ .link | absURL }}" class="btn btn-light">Register</a>
                 {{ end }}
-                {{ end }}
+            {{ end }}
             </a>
           </div>
         </div>
