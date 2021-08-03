@@ -16,14 +16,11 @@ skill:
   enable : true
   title : "Active Events"
   item:
-    - title : "Standpoint"
-      deadline : "2021-08-10"
-      hours : 600
-      button:
-       enable: true
-       link : "https://docs.google.com/forms/u/1/d/1BZj44MN-BWcM4JYhi-kmUfBTtvX31FI3kmc940eCxSQ/edit?usp=drive_web"
-       site: " "      
-      color : "#ffa500"
+    - title : "Bonk Prabhat"
+      deadline : "2021-08-07"
+      hours : 150
+      link : "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      color : "#fdb157"
 
 # experience
 # experience:
@@ -66,12 +63,6 @@ skill:
 #       year : "1998"
 #       academy : "Cardiff School"
 
-# blog
-blog:
-  enable : true
-  title : "Events hosted"
-  # blog post comes from "content/blog" folder
-
 # service
 service:
   enable : true
@@ -81,54 +72,46 @@ service:
       icon : "ti-palette"
       content : "A place for all things Debating! Encourging everyone to express ideas and debate to reach constructive conclusions."
       highlighted : false
-      button:
-        enable : true
-        label : "know more"
-        URL : "https://udaaniitt.web.app/"
 
     - title : "Udaan"
       icon : "ti-panel"
       content : "The first student-run campus newsletter of Indian Institute of Technology, Tirupati."
       highlighted : true
-      Link: "https://udaaniitt.web.app/"
-      button:
-        enable : true
-        label : "know more"
-        URL : "https://udaaniitt.web.app/"
 
     - title : "Quiz Club"
       icon : "ti-vector"
       content : "Quiz Club offers a unique and exciting way to motivate and reward students in their quest for knowledge."
       highlighted : false
-      button:
-        enable : true
-        label : "know more"
-        URL : "https://udaaniitt.web.app/"
 
 # portfolio
-#portfolio:
-#  enable : true
-#  title : "Featured Entries"
-#  item_show : 5
+portfolio:
+  enable : true
+  title : "Featured Entries"
+  item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
- #testimonial
-#testimonial:
-#  enable : true
-#  title : "Testimonials"
-#  item:
-#    - name : "Jesica Gomez"
-#      image : "images/testimonial/client-1.png"
-#      designation : "CEO, Funder"
-#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# testimonial
+testimonial:
+  enable : true
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-#    - name : "Shirley Scot"
-#      image : "images/testimonial/client-1.png"
-#      designation : "CEO, Funder"
-#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-#    - name : "Jessica Julie"
-#      image : "images/testimonial/client-1.png"
-#      designation : "CEO, Funder"
-#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
