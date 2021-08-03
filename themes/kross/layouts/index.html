@@ -68,9 +68,9 @@
   {{ end }}
 
 
-  {{ if site.Data.homepage.events.enable }}
-  {{ with site.Data.homepage.events }}
-  <!-- events -->
+  {{ if site.Data.homepage.liveevents.enable }}
+  {{ with site.Data.homepage.liveevents }}
+  <!-- liveevents -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -88,7 +88,7 @@
             <div class="card-footer bg-white">
               <h3 class="card-title">{{.title }}</h3><h4> Deadline: {{.deadline}}</h4>
             </div>
-            {{ $path := printf "events/%s" .title}}
+            {{ $path := printf "liveevents/%s" .title}}
             <a href="{{$path | urlize}}" class="btn btn-light">Know More</a>
             {{ if .button.enable }}
                 {{ with .button }}
@@ -102,25 +102,25 @@
       </div>
     </div>
   </section>
-  <!-- /skills -->
+  <!-- /liveevents -->
   {{ end }}
   {{ end }}
 
-    {{ if site.Data.homepage.blog.enable }}
-  <!-- blog -->
+    {{ if site.Data.homepage.events.enable }}
+  <!-- events -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{site.Data.homepage.blog.title | markdownify }}</h2>
+          <h2 class="section-title">{{site.Data.homepage.events.title | markdownify }}</h2>
         </div>
-        {{ range first 1 (where .Site.RegularPages "Section" "blog")}}
+        {{ range first 2 (where .Site.RegularPages "Section" "events")}}
         {{ .Render "post" }}
         {{ end }}
       </div>
     </div>
   </section>
-  <!-- /blog -->
+  <!-- events -->
   {{ end }}
 
 

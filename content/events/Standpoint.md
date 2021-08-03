@@ -1,6 +1,6 @@
 ---
 title: "Standpoint"
-date: 2021-07-04 T12:14:34+06:00
+date: 2021-08-04 T12:14:34+06:00
 image: "images/blog/post-5.jpg"
 description: "This is meta description."
 draft: false

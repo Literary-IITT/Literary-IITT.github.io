@@ -11,8 +11,8 @@ about:
     label : "know more"
     URL : "about"
 
-# events
-events:
+# liveevents
+liveevents:
   enable : true
   title : "Active Events"
   item:
@@ -67,9 +67,9 @@ events:
 #       academy : "Cardiff School"
 
 # blog
-blog:
+events:
   enable : true
-  title : "Events hosted"
+  title : "Events"
   # blog post comes from "content/blog" folder
 
 # service
