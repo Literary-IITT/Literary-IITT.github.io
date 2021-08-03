@@ -24,74 +24,92 @@ team:
     - title : "XXXX"
       image: "images/team/member-1.png"
       designation : "Literary Affairs Secretary"
+      email: "literarysec@iittp.ac.in"
       
     - title : "YYYY"
       image : "images/portfolio/member-2.png"
       designation : "Member"
+      email:
       
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : "images/team/member-1.png"
       designation : "Member"
+      email:
       
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : "images/team/member-2.png"
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : "images/team/member-1.png"
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : "images/team/member-2.png"
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : "images/team/member-1.png"
       designation : "Member"
+      email:
 
     - title : "YYYY"
       image : ""
       designation : "Member"
+      email:
 
 
 # client logo slider
