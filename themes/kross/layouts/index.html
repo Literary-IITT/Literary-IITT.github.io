@@ -196,7 +196,7 @@
             <div class="card-body text-center px-4 py-5">
               <h3 class="mb-4">{{.title}}</h3>
               <p>
-                {{.content | markdownify}}
+                {{.content | markdownify}}<br>
                 {{ if .button.enable }}
                 {{ with .button }}
                 <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
