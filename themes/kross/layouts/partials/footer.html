@@ -1,5 +1,5 @@
 {{ if site.Params.contact.enable }}
-<!-- contact -->
+<!-- contact
 <section class="section section-on-footer" data-background="{{`images/backgrounds/bg-dots.png` | absURL}}">
   <div class="container">
     <div class="row">
@@ -29,13 +29,18 @@
     </div>
   </div>
 </section>
-<!-- /contact -->
+/contact -->
 {{ end }}
 
 <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
+<footer class="bg-dark footer-bottom">
     <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <br><br><h3 class="title text-white mb-5">Contact Us</h3>
+        </div>
+      </div>
+      <br><br><br>
       <div class="row">
         <div class="col-md-4">
           <h5 class="text-light">Email</h5>
@@ -51,7 +56,6 @@
         </div>
       </div>
     </div>
-  </div>
   <div class="footer-bottom border-top text-center border-dark py-5">
     <p class="mb-0 text-light">{{ site.Params.copyright | markdownify }}</p>
   </div>
