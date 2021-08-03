@@ -80,7 +80,6 @@
         {{ range .item }}
         <div class="col-lg-3 col-sm-6 mb-4">
           <div class="card shadow text-center">
-            <a href="{{.link}}" target="_blank">
             <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
               {{ $end := .deadline | time }}
               {{ $diff := $end.Sub now }}
@@ -89,6 +88,12 @@
             <div class="card-footer bg-white">
               <h3 class="card-title">{{.title }}</h3><h4> Deadline: {{.deadline}}</h4>
             </div>
+            {{ if .button.enable }}
+                {{ with .button }}
+                <a href="{{ .site | absURL }}" class="btn btn-light">Know More</a>
+                <a href="{{ .link | absURL }}" class="btn btn-light">Register</a>
+                {{ end }}
+                {{ end }}
             </a>
           </div>
         </div>
