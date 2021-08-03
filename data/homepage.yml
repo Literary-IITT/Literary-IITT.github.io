@@ -83,7 +83,7 @@ service:
       button:
         enable : true
         label : "know more"
-        URL : "https://udaaniitt.web.app/"
+        URL : "about"
 
     - title : "Udaan"
       content : "The first student-run campus newsletter of Indian Institute of Technology, Tirupati."
@@ -100,7 +100,7 @@ service:
       button:
         enable : true
         label : "know more"
-        URL : "https://udaaniitt.web.app/"
+        URL : "about"
 
 # portfolio
 #portfolio:

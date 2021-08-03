@@ -38,15 +38,15 @@ URL = "events"
 name = "Events"
 weight = 2
 
-[[menu.main]]
-URL = "previous"
-name = "Previous Years"
-weight = 3
+#[[menu.main]]
+#URL = "previous"
+#name = "Previous Years"
+#weight = 3
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+#[[menu.main]]
+#URL = "contact"
+#name = "Contact"
+#weight = 4
 
 
 # default parameters
