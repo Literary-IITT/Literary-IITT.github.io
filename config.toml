@@ -59,6 +59,7 @@ theme_color = "#41228e"
 # phone = "123"
 email = "literarysec@iittp.ac.in"
 address = "Indian Institute of Technology Tirupati, Chittoor District, A.P - 517619"
+insta = ""
 # meta description
 author = "Literary Secretary"
 description = "Welcome to Literary Affairs Council IIT Tirupati"
@@ -92,18 +93,18 @@ enable = true
 expire_days = 2
 
 # social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
+#[[params.social]]
+#icon = "ti-facebook"
+#URL = "#"
 
-[[params.social]]
-icon = "ti-instagram"
-URL = "#"
+#[[params.social]]
+#icon = "ti-instagram"
+#URL = "#"
 
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+#[[params.social]]
+#icon = "ti-dribbble"
+#URL = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"
+#[[params.social]]
+#icon = "ti-twitter-alt"
+#URL = "#"
