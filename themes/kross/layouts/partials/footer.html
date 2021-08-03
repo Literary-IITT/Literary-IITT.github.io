@@ -1,5 +1,5 @@
 {{ if site.Params.contact.enable }}
-<!-- contact -->
+<!-- contact
 <section class="section section-on-footer" data-background="{{`images/backgrounds/bg-dots.png` | absURL}}">
   <div class="container">
     <div class="row">
@@ -29,16 +29,18 @@
     </div>
   </div>
 </section>
-<!-- /contact -->
+/contact -->
 {{ end }}
 
 <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
+<footer class="footer-bottom bg-dark">
     <div class="container">
-      <div class="row">
+      <div class="row">  
+        <div class="col-12 text-center">
+          <br><br><h3 class="section-title text-white mb-5">Contact Us</h3>
+        </div>      
         <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
+          <h4 class="text-light">Email</h4>
           <p class="text-white paragraph-lg font-secondary"><a href="mailto:{{site.Params.email}}">{{site.Params.email}}</a></p>
         </div>
         <div class="col-md-4">
@@ -46,13 +48,13 @@
           <p class="text-white paragraph-lg font-secondary"><a href="tel:{{site.Params.phone}}">{{site.Params.phone}}</a></p> -->
         </div>
         <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
+          <h4 class="text-light">Address</h4>
           <p class="text-white paragraph-lg font-secondary">{{site.Params.address}}</p>
         </div>
       </div>
     </div>
   </div>
-  <div class="footer-bottom border-top text-center border-dark py-5">
+  <div class="footer-bottom border-top text-center border-dark ">
     <p class="mb-0 text-light">{{ site.Params.copyright | markdownify }}</p>
   </div>
 </footer>

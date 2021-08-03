@@ -66,7 +66,7 @@ skill:
 # blog
 blog:
   enable : true
-  title : "Events hosted"
+  title : "Events"
   # blog post comes from "content/blog" folder
 
 # service
