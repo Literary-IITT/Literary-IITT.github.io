@@ -160,7 +160,19 @@ $(window).on('load', function () {
 		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
 			var input = evt.currentTarget;
 			if (input.checked) {
-				myShuffle.filter(input.value);
+				myShuffle
+				.filter(function (element) {
+					return ((element.getAttribute('data-groups') == `["${input.value}"]`||input.value =="all") && (element.getAttribute('data-category') == `["${$('input:checked[name="shuffle-filter2"]').val()}"]`||$('input:checked[name="shuffle-filter2"]').val() =="all"));
+				})
+			}
+		});
+		jQuery('input[name="shuffle-filter2"]').on('change', function (evt) {
+			var input = evt.currentTarget;
+			if (input.checked) {
+				myShuffle
+				.filter(function (element) {
+					return ((element.getAttribute('data-category') == `["${input.value}"]`||input.value =="all") && (element.getAttribute('data-groups') == `["${$('input:checked[name="shuffle-filter"]').val()}"]`||$('input:checked[name="shuffle-filter"]').val() =="all"));
+				})
 			}
 		});
 	}
