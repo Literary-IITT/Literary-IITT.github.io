@@ -21,95 +21,106 @@ team:
   enable: true
   title : "LAC: 2021-22"
   team_member:
-    - title : "XXXX"
-      image: "images/team/member-1.png"
+    - title : "Prabhat Reddy"
+      image: "images/team/2021-22/01. Prabhat.jpg"
       designation : "Literary Affairs Secretary"
       email: "literarysec@iittp.ac.in"
+
+    - title : "Ayush Prasad"
+      image : "images/team/2021-22/02. Ayush.jpg"
+      designation : "Member"
+      email: "me18b005@iittp.ac.in"
       
-    - title : "YYYY"
-      image : "images/portfolio/member-2.png"
+    - title : "Yashas S V"
+      image : ""
       designation : "Member"
-      email:
+      email: "ee18b040@iittp.ac.in"
+
+    - title : "Adithya T Deepak"
+      image : ""
+      designation : "Member"
+      email: "ch18b004@iittp.ac.in"
       
-    - title : "YYYY"
+    - title : "Apoorva Ajay Sonarghare"
+      image : "images/team/2021-22/13. Apoorva.jpg"
+      designation : "Member"
+      email: "ce18b004@iittp.ac.in"
+
+    - title : "Noble Saji Mathews"
+      image : "images/team/2021-22/14. Noble.jpg"
+      designation : "Member"
+      email: "ch19b023@iittpac.in"
+
+    - title : "Debeshee Das"
+      image : "images/team/2021-22/12. Debeshee.jpg"
+      designation : "Member"
+      email: "cs19b012@iittp.ac.in"
+
+    - title : "Srikarah Volaity"
+      image : "images/team/2021-22/08. Srikarah.jpg"
+      designation : "Member"
+      email: "ce19b027@iittp.ac.in"
+
+    - title : "Vinod Keerthipati"
+      image : "images/team/2021-22/09. Vinod.jpg"
+      designation : "Member"
+      email: "me19b023@iittp.ac.in"
+
+    - title : "Tusshar Pandey"
+      image : "images/team/2021-22/07. Tusshar.jpg"
+      designation : "Member"
+      email: "ch19b033@iittp.ac.in"
+
+    - title : "Kunal Kumar"
+      image : "images/team/2021-22/10. Kunal.jpg"
+      designation : "Member"
+      email: "ch19b013@iittp.ac.in"
+
+    - title : "Anant Tyagi"
       image : ""
       designation : "Member"
-      email:
+      email: "ee20b003@iittp.ac.in"
 
-    - title : "YYYY"
-      image : "images/team/member-1.png"
-      designation : "Member"
-      email:
-      
-    - title : "YYYY"
+    - title : "V Sathyanarayann"
       image : ""
       designation : "Member"
-      email:
+      email: "ee20b046@iittp.ac.in"
 
-    - title : "YYYY"
+    - title : "S Krithi Shailya"
+      image : "images/team/2021-22/11. Krithi.jpg"
+      designation : "Member"
+      email: "ee20b038@iittp.ac.in"
+
+    - title : "Sachin Kumar Sahu"
+      image : "images/team/2021-22/04. Sachin.jpg"
+      designation : "Member"
+      email: "cs20b034@iittp.ac.in"
+
+    - title : "Vignesh S"
       image : ""
       designation : "Member"
-      email:
+      email: "ee20b051@iittp.ac.in"
 
-    - title : "YYYY"
-      image : "images/team/member-2.png"
+    - title : "Swami Ramchandra Kedari"
+      image : "images/team/2021-22/03. Swami.jpg"
       designation : "Member"
-      email:
+      email: "cs20b048@iittp.ac.in"
 
-    - title : "YYYY"
+    - title : "Peethi Varsha Marivina"
+      image : "images/team/2021-22/05. Preethi.jpg"
+      designation : "Member"
+      email: "cs20b030@iittp.ac.in"
+
+    - title : "Ram Mohith"
+      image : "images/team/2021-22/06. Ram Mohith.jpg"
+      designation : "Member"
+      email: "ch20b021@iittp.ac.in"
+
+    - title : "Sneha M S"
       image : ""
       designation : "Member"
-      email:
+      email: "ch20b022@iittp.ac.in"
 
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : "images/team/member-1.png"
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : "images/team/member-2.png"
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : "images/team/member-1.png"
-      designation : "Member"
-      email:
-
-    - title : "YYYY"
-      image : ""
-      designation : "Member"
-      email:
 
 
 # client logo slider
