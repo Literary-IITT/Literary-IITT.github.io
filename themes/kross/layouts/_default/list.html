@@ -12,8 +12,7 @@
           </label>
 					{{ $categories := slice }}
 					{{ range .Data.Pages }}
-          {{ $year := index (split .Params.date "-") 0 }}
-					{{ $categories = $categories | append $year }}
+          {{ $categories = $categories | append .Params.ayear }}
 					{{ end }}
 					{{ range ( $categories | uniq ) }}
           <label class="btn btn-sm btn-primary">
@@ -41,12 +40,13 @@
         </div>
       </div>
     </div>
+
     <div class="row shuffle-wrapper">
       {{ range .Data.Pages }}
       {{ $ind := index (split .Params.date "-") 0}}
       {{ $indx := slice }}
       {{ $indx2 := slice }}
-      {{ $indx = $indx | append $ind }}
+      {{ $indx = $indx | append .Params.ayear }}
       {{ $indx2 = $indx2 | append .Params.club }}
       <div class="col-lg-4 col-sm-6 shuffle-item" data-category="[{{range $index, $element:= $indx2 }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]" data-groups="[{{range $index, $element:= $indx }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
         {{ .Render "post" }}

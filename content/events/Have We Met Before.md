@@ -4,6 +4,7 @@ date: 2021-07-04T09:00:00+05:30
 image: "images/Events/Have_We_Met_Before.jpeg"
 description: "This is meta description."
 club: "Literary"
+ayear: "2021-22"
 draft: false
 ---
 

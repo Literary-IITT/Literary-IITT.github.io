@@ -4,6 +4,7 @@ date: 2021-08-04T00:00:00+05:30
 image: "images/Events/Standpoint.jpg"
 description: "This is meta description."
 club: "Debate"
+ayear: "2021-22"
 draft: false
 ---
 #### Summary: 
