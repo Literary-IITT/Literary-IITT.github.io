@@ -115,7 +115,9 @@
           <h2 class="section-title">{{site.Data.homepage.events.title | markdownify }}</h2>
         </div>
         {{ range first 3 (where .Site.RegularPages "Section" "events")}}
+        <div class="col-lg-4 col-sm-6 mb-4">
         {{ .Render "post" }}
+        </div>
         {{ end }}
       </div>
     </div>
