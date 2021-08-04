@@ -3,6 +3,7 @@ title: "Have We Met Before"
 date: 2021-07-04T12:14:34+06:00
 image: "images/Events/Have_We_Met_Before.jpeg"
 description: "This is meta description."
+club: "Literary"
 draft: false
 ---
 
