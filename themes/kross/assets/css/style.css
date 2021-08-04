@@ -90,9 +90,9 @@ h6,
   font-family: playfair display, serif;
   text-transform: capitalize;
   padding: 16px 44px;
-  border-radius: 5px;
+  border-radius: 15px;
   font-weight: 600;
-  border: 0;
+  border: 10;
   position: relative;
   z-index: 1;
   transition: .2s ease
@@ -119,11 +119,12 @@ h6,
 
 .btn-primary {
   background: var(--primary-color);
-  color: #fff
+  color: #fff;
+  border-color: #fff;
 }
 
 .btn-primary.active {
-  opacity: .8;
+  opacity: 1;
 }
 
 .btn-primary:active {
@@ -131,12 +132,19 @@ h6,
 }
 
 .btn-primary:hover {
-  background: var(--primary-color)
+  background: #fff;
+  border-color: var(--primary-color);
+  color:var(--primary-color) ;
+  font-size: 20px !important;
 }
 
 .btn-primary.focus,
 .btn-primary.active {
   background: var(--primary-color) !important;
+  color: #fff !important;
+  border-color: #fff !important;
+  opacity: .9;
+  font-variant: small-caps !important;
   box-shadow: none !important
 }
 
