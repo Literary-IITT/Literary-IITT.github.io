@@ -1,10 +1,8 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-8.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["illustration","development"]
+title: "Winner 1"
+date: 2020-05-12T12:14:34+06:00
+image: "images/blog/post-1.jpg"
+club: "Category-1"
 description: "This is meta description."
 draft: false
 ---

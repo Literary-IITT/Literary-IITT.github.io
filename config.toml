@@ -39,8 +39,8 @@ name = "Events"
 weight = 2
 
 #[[menu.main]]
-#URL = "previous"
-#name = "Previous Years"
+#URL = "winners"
+#name = "Winning Entries"
 #weight = 3
 
 #[[menu.main]]
