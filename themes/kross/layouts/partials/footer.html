@@ -41,8 +41,8 @@
         </div>
       </div>
       <div class="col-md-12 text-center">
-          <a href="{{site.Params.insta}}" class="btn btn-transparent"><img src="images/socialmedia/Instagram.png" width="50" alt="Instagram"></a>
-          <a href="mailto:{{site.Params.email}}" class="btn btn-transparent"><img src="images/socialmedia/email.png" width="50" alt="Email"></a>
+          <a href="{{site.Params.insta}}" class="btn btn-transparent"><img src="{{`images/socialmedia/Instagram.png` | relURL}}" width="50" alt="Instagram"></a>
+          <a href="mailto:{{site.Params.email}}" class="btn btn-transparent"><img src="{{`images/socialmedia/email.png` | relURL}}" width="50" alt="Email"></a>
       </div>
       <br><br><br>
       <div class="row">
@@ -95,7 +95,7 @@
 			cookieBox.classList.remove('cookie-box-hide');
 			cookieButton.onclick = function () {
 				Cookies.set('cookie-box', true, {
-					expires: "{{ site.Params.cookies.expire_days }}"
+					expires: {{ site.Params.cookies.expire_days }}
 				});
 				cookieBox.classList.add('cookie-box-hide');
 			};

@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://literary-iitt.github.io/lac-hugo-website"
+baseURL = "https://literary-iitt.github.io/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
@@ -66,7 +66,7 @@ description = "Welcome to Literary Affairs Council IIT Tirupati"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2021 [Literary Affairs Council IIT Tirupati](https://literary-iitt.github.io/lac-hugo-website/)"
+copyright = "Copyright &copy; 2021 [Literary Affairs Council IIT Tirupati](https://literary-iitt.github.io)"
 
 
 # preloader
