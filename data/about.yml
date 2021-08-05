@@ -46,6 +46,11 @@ team:
       designation : "Member"
       email: "ce18b004@iittp.ac.in"
 
+    - title : "Kaushal Dhaingar"
+      image : "images/team/2021-22/16. Kaushal.jpg"
+      designation : "Member"
+      email: "ce18b029@iittp.ac.in"
+
     - title : "Noble Saji Mathews"
       image : "images/team/2021-22/14. Noble.jpg"
       designation : "Member"
@@ -76,48 +81,48 @@ team:
       designation : "Member"
       email: "ch19b013@iittp.ac.in"
 
-    - title : "Anant Tyagi"
-      image : ""
-      designation : "Member"
-      email: "ee20b003@iittp.ac.in"
-
-    - title : "V Sathyanarayann"
-      image : ""
-      designation : "Member"
-      email: "ee20b046@iittp.ac.in"
-
     - title : "S Krithi Shailya"
       image : "images/team/2021-22/11. Krithi.jpg"
       designation : "Member"
       email: "ee20b038@iittp.ac.in"
+
+    - title : "Anant Tyagi"
+      image : ""
+      designation : "Member"
+      email: "ee20b003@iittp.ac.in"    
+
+    - title : "V Sathyanarayann"
+      image : "images/team/2021-22/15. Sathya.jpg"
+      designation : "Member"
+      email: "ee20b046@iittp.ac.in"
 
     - title : "Sachin Kumar Sahu"
       image : "images/team/2021-22/04. Sachin.jpg"
       designation : "Member"
       email: "cs20b034@iittp.ac.in"
 
-    - title : "Vignesh S"
-      image : ""
+    - title : "Peethi Varsha Marivina"
+      image : "images/team/2021-22/05. Preethi.jpg"
       designation : "Member"
-      email: "ee20b051@iittp.ac.in"
+      email: "cs20b030@iittp.ac.in"
+
+    - title : "Vignesh S"
+      image : "images/team/2021-22/17. Vignesh.jpg"
+      designation : "Member"
+      email: "ee20b051@iittp.ac.in"      
 
     - title : "Swami Ramchandra Kedari"
       image : "images/team/2021-22/03. Swami.jpg"
       designation : "Member"
       email: "cs20b048@iittp.ac.in"
 
-    - title : "Peethi Varsha Marivina"
-      image : "images/team/2021-22/05. Preethi.jpg"
-      designation : "Member"
-      email: "cs20b030@iittp.ac.in"
-
     - title : "Ram Mohith"
-      image : "images/team/2021-22/06. Ram Mohith.jpg"
+      image : "images/team/2021-22/06. Ram Mohith.png"
       designation : "Member"
-      email: "ch20b021@iittp.ac.in"
+      email: "ch20b021@iittp.ac.in"      
 
     - title : "Sneha M S"
-      image : ""
+      image : "images/team/2021-22/18. Sneha.jpg"
       designation : "Member"
       email: "ch20b022@iittp.ac.in"
 
