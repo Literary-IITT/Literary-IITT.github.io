@@ -31,7 +31,8 @@ liveevents:
        enable: true
        link : "https://forms.gle/i64rcuuFuhKDUyQw7"
        site: " "      
-      color : "#FA8072"  
+      color : "#FA8072"
+     
 
 # experience
 # experience:

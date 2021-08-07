@@ -78,7 +78,7 @@
           <h2 class="section-title mb-5">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="col-lg-3 col-sm-6 mb-4">
+        <div class="col-lg col-md mb-3">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
               {{ $end := .deadline | time }}
