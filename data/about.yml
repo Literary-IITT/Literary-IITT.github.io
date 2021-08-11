@@ -19,7 +19,7 @@
 # team
 team:
   enable: true
-  title : "LAC: 2021-22"
+  title : "Literary Affairs Council: 2021-22"
   team_member:
     - title : "Prabhat Reddy"
       image: "images/team/2021-22/01. Prabhat.jpg"
@@ -128,8 +128,61 @@ team:
 
 
 
-# client logo slider
-#clients_logo_slider:
-#  enable : true
-#  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+d_team:
+  enable: true
+  title : "Debate and Oratory Club: 2021-22"
+  team_member:
+    - title : "Prabhat Reddy"
+      image: "images/team/2021-22/01. Prabhat.jpg"
+      designation : "Literary Affairs Secretary"
+      email: "literarysec@iittp.ac.in"
+
+    - title : "Ayush Prasad"
+      image : "images/team/2021-22/02. Ayush.jpg"
+      designation : "Member"
+      email: "me18b005@iittp.ac.in"
+      
+    - title : "Yashas S V"
+      image : "images/team/2021-22/0.Avatar.jpg"
+      designation : "Member"
+      email: "ee18b040@iittp.ac.in"
+
+    - title : "Adithya T Deepak"
+      image : "images/team/2021-22/0.Avatar.jpg"
+      designation : "Member"
+      email: "ch18b004@iittp.ac.in"
+      
+    - title : "Apoorva Ajay Sonarghare"
+      image : "images/team/2021-22/13. Apoorva.jpg"
+      designation : "Member"
+      email: "ce18b004@iittp.ac.in"
+
+
+q_team:
+  enable: true
+  title : "Quiz Club: 2021-22"
+  team_member:
+    - title : "Prabhat Reddy"
+      image: "images/team/2021-22/01. Prabhat.jpg"
+      designation : "Literary Affairs Secretary"
+      email: "literarysec@iittp.ac.in"
+
+    - title : "Ayush Prasad"
+      image : "images/team/2021-22/02. Ayush.jpg"
+      designation : "Member"
+      email: "me18b005@iittp.ac.in"
+      
+    - title : "Yashas S V"
+      image : "images/team/2021-22/0.Avatar.jpg"
+      designation : "Member"
+      email: "ee18b040@iittp.ac.in"
+
+    - title : "Adithya T Deepak"
+      image : "images/team/2021-22/0.Avatar.jpg"
+      designation : "Member"
+      email: "ch18b004@iittp.ac.in"
+      
+    - title : "Apoorva Ajay Sonarghare"
+      image : "images/team/2021-22/13. Apoorva.jpg"
+      designation : "Member"
+      email: "ce18b004@iittp.ac.in"

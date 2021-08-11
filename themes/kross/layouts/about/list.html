@@ -30,10 +30,10 @@
         <div class="shadow-down mb-4">
           <img src="{{`images/LAC/Literati__IITT.png` | relURL}}" alt="LAC"
             class="img-fluid w-100 rounded-lg">
-          <img src="{{`images/LAC/Logo-Name.png` | relURL}}" alt="LAC"
-            class="img-fluid w-100 rounded-lg">
+          <!--<img src="{{`images/LAC/Logo-Name.png` | relURL}}" alt="LAC"
+            class="img-fluid w-100 rounded-lg">-->
         </div>
-        <h4>Literary Affairs Council IITT</h4>
+        <h4>Literati IITT</h4>
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <h2 class="section-title">{{.title|markdownify}}</h2>
       </div>
       {{ range .team_member }}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
@@ -89,6 +89,57 @@
 {{ end }}
 {{ end }}
 <!-- /team -->
+
+{{ if site.Data.about.d_team.enable }}
+{{ with site.Data.about.d_team }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{.title|markdownify}}</h2>
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <h5 class="text-light font-secondary"><a href="mailto:{{.email}}">{{.designation }}</a></h5>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /team -->
+
+{{ if site.Data.about.q_team.enable }}
+{{ with site.Data.about.q_team }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{.title| markdownify}}</h2>
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <h5 class="text-light font-secondary"><a href="mailto:{{.email}}">{{.designation }}</a></h5>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
 
 {{ if site.Data.about.clients_logo_slider.enable }}
 <section class="section">
