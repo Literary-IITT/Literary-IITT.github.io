@@ -8,7 +8,7 @@ ayear: "2021-22"
 draft: false
 ---
 #### Summary: 
-On the occasion of the 400th birth anniversary of Shri Guru Tegh Bahadur Ji, the Literary Affairs Council is conducting a week-long essay writing competition, from August 4rd to August 11th.
+On the occasion of the 400th birth anniversary of Shri Guru Tegh Bahadur Ji, the Literary Affairs Council is conducting a week-long essay writing competition, from August 4th to August 11th.
 
 
 ****
@@ -31,7 +31,7 @@ Shri Guru Tegh Bahadur Ji was the ninth of the ten gurus who founded the Sikh re
 
 - The submissions can either be in English or Hindi.
 - There is no hard and fast word limit as such, but the preferable limit is 600-800 words. Note that this will NOT be a criterion for judging.
-- Participants will have one week time to submit their writings, starting from 4th August 2021. The last date to make a submission is 11th August 2021.
+- Participants will have one week time to submit their writings, starting from 4th August 2021. The last date to make a submission is 11th August 2021. *(Deadline extended to 14th August)*
 - The submission will be through a Google Form. Participants can either type out the essay and send the document in a .pdf/.docx format, or the participants can also manually write the essay in legible handwriting, and send the scanned document.
 
 ****

@@ -51,7 +51,7 @@ Top 5 or 6 speakers will be asked to present the same speech in the finals with 
 - Rules are subject to change at judges' discretion
 
 ****
-**You can register for the event by filling up this [form](https://docs.google.com/forms/u/1/d/1BZj44MN-BWcM4JYhi-kmUfBTtvX31FI3kmc940eCxSQ/edit?usp=drive_web)**
+**Registrations Closed**
 
 
 
