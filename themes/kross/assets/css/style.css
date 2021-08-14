@@ -12,6 +12,18 @@ VERSION: Versoin Number
   font-display: swap
 }
 
+.anchorjs-link{
+  display: block;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.15s ease-out;
+}
+
+h2:hover .anchorjs-link {
+  max-height: 52px;
+  transition: max-height 0.25s ease-in;
+}
+
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
