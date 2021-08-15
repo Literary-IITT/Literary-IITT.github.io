@@ -1,14 +1,14 @@
 ---
-title: "Essay Writing Competition - 400th Prakash Parab Samaroh of Shri Guru Tegh Bahadur Ji"
+title: "Essay Writing Competition"
 date: 2021-08-07T00:00:00+05:30
-image: "images/Events/GuruTeghBahadurJi.png"
+image: "images/Events/GuruTeghBahadurJi.jpg"
 description: "This is meta description."
 club: "Literary"
 ayear: "2021-22"
 draft: false
 ---
 #### Summary: 
-On the occasion of the 400th birth anniversary of Shri Guru Tegh Bahadur Ji, the Literary Affairs Council is conducting a week-long essay writing competition, from August 4th to August 11th.
+On the occasion of the 400th Prakash Parab Samaroh of Shri Guru Tegh Bahadur Ji, the Literary Affairs Council is conducting a week-long essay writing competition. (From August 4th to August 11th)
 
 
 ****
