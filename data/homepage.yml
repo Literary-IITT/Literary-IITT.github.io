@@ -100,7 +100,7 @@ service:
       button:
         enable : true
         label : "know more"
-        URL : "about"
+        URL : "quiz"
 
 # portfolio
 #portfolio:

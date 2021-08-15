@@ -38,10 +38,15 @@ URL = "events"
 name = "Events"
 weight = 2
 
+[[menu.main]]
+URL = "quiz"
+name = "Quiz Club"
+weight = 3
+
 #[[menu.main]]
 #URL = "winners"
-#name = "Winning Entries"
-#weight = 3
+#name = "Entries"
+#weight = 4
 
 #[[menu.main]]
 #URL = "contact"
