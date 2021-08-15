@@ -78,7 +78,7 @@ service:
   title : "Our Clubs and Newsletter"
   item:
     - title : "Debate and Oratory Club"
-      content : "A place for all things Debating! Encourging everyone to express ideas and debate to reach constructive conclusions."
+      content : "A place for all the people who love to talk! Encouraging everyone to put forth their thoughts and having debates to reach constructive conclusions."
       highlighted : false
       button:
         enable : true
