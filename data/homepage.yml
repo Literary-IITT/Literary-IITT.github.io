@@ -13,16 +13,16 @@ about:
 
 # liveevents
 liveevents:
-  enable : true
+  enable : false
   title : "Active Events"
   item:
-    - title : "Essay Writing Competition"
-      deadline : "2021-08-14"
-      hours : 428.5
+    - title : 
+      deadline : 
+      hours : 
       button:
-       enable: true
-       link : "https://forms.gle/i64rcuuFuhKDUyQw7"     
-      color : "#FA8072"
+       enable: 
+       link :     
+      color : 
      
 
 # experience
