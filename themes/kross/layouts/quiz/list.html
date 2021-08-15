@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+  <section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+					{{ $categories := slice }}
+					{{ range .Data.Pages }}
+          {{ $categories = $categories | append .Params.ayear }}
+					{{ end }}
+					{{ range ( $categories | uniq ) }}
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . }}
+          </label>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter2" value="all" checked="checked" />All
+          </label>
+					{{ $categories2 := slice }}
+					{{ range .Data.Pages }}
+					{{ $categories2 = $categories2 | append .Params.club }}
+					{{ end }}
+					{{ range ( $categories2 | uniq ) }}
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter2" value="{{ . | urlize }}" />{{ . }}
+          </label>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="row shuffle-wrapper">
+      {{ range .Data.Pages }}
+      {{ $ind := index (split .Params.date "-") 0}}
+      {{ $indx := slice }}
+      {{ $indx2 := slice }}
+      {{ $indx = $indx | append .Params.ayear }}
+      {{ $indx2 = $indx2 | append .Params.club }}
+      <div class="col-lg-4 col-sm-6 shuffle-item" data-category="[{{range $index, $element:= $indx2 }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]" data-groups="[{{range $index, $element:= $indx }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
+        {{ .Render "post" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
