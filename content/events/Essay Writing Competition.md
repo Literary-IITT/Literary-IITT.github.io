@@ -36,7 +36,7 @@ Shri Guru Tegh Bahadur Ji was the ninth of the ten gurus who founded the Sikh re
 
 ****
 
-**Registrations Closed**
+**Registrations Closed. Results will be announced soon.**
 
 
 
