@@ -124,7 +124,7 @@ team:
 
 
 d_team:
-  enable: true
+  enable: false
   title : "Debate and Oratory Club: 2021-22"
   team_member:
     - title : ""
@@ -154,7 +154,7 @@ d_team:
 
 
 q_team:
-  enable: true
+  enable: false
   title : "Quiz Club: 2021-22"
   team_member:
     - title : ""
