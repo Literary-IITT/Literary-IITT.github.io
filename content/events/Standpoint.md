@@ -8,7 +8,8 @@ ayear: "2021-22"
 draft: false
 ---
 #### Summary: 
-Standpoint is an annual exposition/public speaking event hosted by Debate and Oratory Club IITT. Gear up for the first oratory event of this academic year and win exciting prizes worth up to 5000.
+
+Debate and Oratory Club IITT comes back with Standpoint, our an annual exposition/public speaking event; Gear up for the first oratory event of this academic year and win exciting prizes worth up to 5000. We hope to see active participation from your side!
 
 ****
 

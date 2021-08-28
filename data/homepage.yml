@@ -13,16 +13,16 @@ about:
 
 # liveevents
 liveevents:
-  enable : false
+  enable : true
   title : "Active Events"
   item:
-    - title : 
-      deadline : 
-      hours : 
+    - title : "Ease Your Pace" 
+      deadline : 2021-09-05
+      hours : 400
       button:
-       enable: 
-       link :     
-      color : 
+       enable: true
+       link : "https://docs.google.com/forms/d/e/1FAIpQLSebbGhEMa3hlWx2hxQ4pyyAVyLtdt90qgoTe4d2FUWupJImuQ/viewform?usp=sf_link"    
+      color : "#FA8072"
      
 
 # experience

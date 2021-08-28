@@ -1,14 +1,14 @@
 ---
 title: "Ease Your Pace"
 date: 2021-08-28T00:00:00+05:30
-image: "images/Events/EaseYourPace.jpg"
+image: "images/Events/Ease your Pace.jpg"
 description: "This is meta description."
 club: "Literary"
 ayear: "2021-22"
 draft: false
 ---
 #### Summary: 
-We’ve come up with a very simple writing activity (writing prompts, describing a scene and paradox thinking) that would serve as a great way to start your journey with literature📝. So what are you waiting for, start writing headlong in the form attached. 
+We’ve come up with a very simple writing activity (writing prompts, describing a scene and paradox thinking) that would serve as a great way to start your journey with literature. So, what are you waiting for? start writing headlong in the form attached. 
 
 ****
 
