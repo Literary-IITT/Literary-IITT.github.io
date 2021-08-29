@@ -92,7 +92,7 @@
             <a href="{{$path | urlize}}" class="btn btn-light">Know More</a>
             {{ if .button.enable }}
                 {{ with .button }}
-                <a href='{{.link | absURL }}' class="btn btn-light">Register</a>
+                <a href='{{.link | absURL }}' target="_blank" rel="noopener noreferrer" class="btn btn-light">Register</a>
                 {{ end }}
             {{ end }}
             </a>
@@ -201,7 +201,7 @@
                 {{.content | markdownify}}<br>
                 {{ if .button.enable }}
                 {{ with .button }}
-                <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+                <a href="{{ .URL | absURL }}" target="_blank" class="btn btn-transparent">{{.label}}</a>
                 {{ end }}
                 {{ end }}
               </p>
