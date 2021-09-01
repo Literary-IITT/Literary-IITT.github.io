@@ -1,13 +1,13 @@
 ---
 title: "Ease Your Pace"
 date: 2021-08-28T00:00:00+05:30
-image: "images/Events/Ease your Pace.jpg"
+image: "images/Events/2021-22/Ease your Pace.jpg"
 description: "This is meta description."
 club: "Literary"
 ayear: "2021-22"
 draft: false
 ---
-### Summary: 
+#### Summary: 
 We’ve come up with a very simple writing activity (writing prompts, describing a scene and paradox thinking) that would serve as a great way to start your journey with literature. So, what are you waiting for? start writing headlong in the form attached. 
 
 ****
@@ -28,7 +28,7 @@ This is the [form](https://docs.google.com/forms/d/e/1FAIpQLSebbGhEMa3hlWx2hxQ4p
 
 ****
 
-### Introduction:
+#### Introduction:
 
 *“Speaking is a skill and writing is an art. Both are required if you want to be a skilled artist”*
 
@@ -37,7 +37,7 @@ Writing is one of the integral parts in effective communication. Irrespective of
 
 ****
 
-### Description :
+#### Description :
 
 Writing Prompts will unleash the creative spirit in you, not to mention the writing skills you can refine with this basic activity.
 
@@ -48,7 +48,7 @@ Paradoxes challenge our thinking and open a whole new perspective to solving a p
 
 ****
 
-### Instructions:
+#### Instructions:
 
 Although we recommend you to answer all the questions as much as possible, you are not restricted. You may not like to answer a particular question/aren’t getting any ideas. Take your own time and try to do the best you can do. Just note that if you are not going to answer a question, just write “NOPE/ NO”. 
 

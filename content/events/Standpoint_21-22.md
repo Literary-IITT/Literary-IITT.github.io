@@ -1,7 +1,7 @@
 ---
-title: "Standpoint"
+title: "Standpoint 2021-22"
 date: 2021-08-04T00:00:00+05:30
-image: "images/Events/Standpoint.jpg"
+image: "images/Events/2021-22/Standpoint.jpg"
 description: "This is meta description."
 club: "Debate"
 ayear: "2021-22"

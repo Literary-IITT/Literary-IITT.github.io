@@ -1,7 +1,7 @@
 ---
 title: "Have We Met Before"
 date: 2021-06-20T09:00:00+05:30
-image: "images/Events/Have_We_Met_Before.jpg"
+image: "images/Events/2021-22/Have_We_Met_Before.jpg"
 description: "This is meta description."
 club: "Literary"
 ayear: "2021-22"
@@ -9,9 +9,9 @@ draft: false
 ---
 
 
-### Summary:
+#### Summary:
 
-The Literary Affairs Council (LAC) in collaboration with the Guidance and Counselling Unit (GCU) is elated to present you with ‘Have We Met Before?’. This an institute-wide interactive event that is open to all UG and PG students. It is a team-based event in which seniors and juniors come together as a team to participate in a variety of activities.
+Literati (LAC) in collaboration with the Guidance and Counselling Unit (GCU) is elated to present 'Have We Met Before'; An institute-wide interactive event open to all UG and PG students. It is a team-based event in which seniors and juniors come together as a team to participate in a variety of activities.
 
 As accurately pointed out by an alumnus, “Contrary to popular belief, the most cherished memories lie in the simplest of things, the two-minute conversations that snowball into night-long chats, the leisurely strolls around campus, and the inside jokes cracked during classes”. Watching cricket matches in the mess, chilling out in the Open Air Theatre, the long wait in the mess on a Sunday afternoon (as painful as they are) to get a plate of biryani, all these small memories come together to make up the entire college experience. 
 
