@@ -25,5 +25,10 @@ As part of Republic Day Celebrations, Debate Club and LAC will be hosting our an
 
 ****
 
-**Registrations Closed**
+#### Results:
+
+- Joint Winners: *Sneha M S and Nayan Jain* 
+- Runner-Up: *Mohd Aasim Khan*
+
+****
 

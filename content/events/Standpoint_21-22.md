@@ -52,7 +52,14 @@ Top 5 or 6 speakers will be asked to present the same speech in the finals with 
 - Rules are subject to change at judges' discretion
 
 ****
-**Registrations Closed**
+
+#### Results:
+
+- Winner: *Chaitali Karekar*
+- Runner-Up: *Ishaan Kulkarni*
+
+****
+
 
 
 

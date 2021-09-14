@@ -65,4 +65,4 @@ Sections:
 
 ****
 
-**Don't forget to fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSebbGhEMa3hlWx2hxQ4pyyAVyLtdt90qgoTe4d2FUWupJImuQ/viewform?usp=sf_link). Hope You Have a Great Time Writing!**
+**Registrations Closed**

@@ -9,7 +9,7 @@ draft: false
 ---
 
 #### Summary:
-We are thrilled to announce the first edition of the team debating event: Vaad-Vivaad; An event geared in a fun and general format to help students find their feet in the world of public speaking. It is compeletly general and no pre- prepartion is required. Gear up for the first debating event hosted by IIT Tirupati’s Debate Club, with exciting prizes worth up to INR 5000.
+We are thrilled to announce the first edition of the team debating event: Vaad-Vivaad; An event geared in a fun and general format to help students find their feet in the world of public speaking. It is compeletly general and no pre-prepartion is required. Gear up for the first debating event hosted by IIT Tirupati’s Debate Club, with exciting prizes worth up to INR 5000.
 
 ****
 
@@ -45,6 +45,14 @@ The event might be split into multiple rounds or a single round depending on the
 
 ****
 
-**Registrations Closed**
+#### Results:
+
+- Winners: *Shreyansh Mehra and Mohd Aasim Khan*
+- Runners Up: *Krithi Shailya and Sathyanarayan*
+- Second Runners Up: *Raunak Agrawal and KJ Mathew*
+- Best Team Name: *Benaami (Talha Shamim and Anu Anand Annu)*
+
+****
+
 
 
