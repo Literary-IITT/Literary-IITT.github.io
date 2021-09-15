@@ -60,8 +60,8 @@ Sections:
 - Sec 4 : Paradox Thinking - This is an optional section. Submission as a handwritten file is provided at the end of this section.
 - Sec 5 : In case you have a literary work that you would like to share with us, you can submit it as a file or write in the form.
 
-
-
 ****
 
-**Registrations Closed**
+**You can view the submissions [here](https://literary-iitt.github.io/winners/ease-your-pace-sub)**
+
+****
