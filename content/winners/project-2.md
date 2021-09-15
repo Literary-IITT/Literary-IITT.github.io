@@ -1,10 +1,11 @@
 ---
-title: "Winner 2"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-2.jpg"
-club: "Category-2"
+title: "winner2"
+date: 2021-09-15T00:00:00+05:30
+image: "images/Events/2021-22/Ease your Pace.jpg"
 description: "This is meta description."
-draft: false
+club: "Literary"
+ayear: "2021-22"
+draft: true
 ---
 
 #### Project Requirements

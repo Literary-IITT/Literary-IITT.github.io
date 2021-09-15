@@ -103,10 +103,10 @@ service:
         URL : "quiz"
 
 # portfolio
-#portfolio:
-#  enable : true
-#  title : "Featured Entries"
-#  item_show : 5
+portfolio:
+ enable : true
+ title : "Featured Entries"
+ item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
  #testimonial

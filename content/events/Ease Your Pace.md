@@ -24,7 +24,6 @@ We’ve come up with a very simple writing activity (writing prompts, describing
 
 Good submissions will be selected and displayed in our Literati website and Instagram page.
 
-This is the [form](https://docs.google.com/forms/d/e/1FAIpQLSebbGhEMa3hlWx2hxQ4pyyAVyLtdt90qgoTe4d2FUWupJImuQ/viewform?usp=sf_link) to take part in the Event.
 
 ****
 
