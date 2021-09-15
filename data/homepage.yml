@@ -102,11 +102,11 @@ service:
         label : "know more"
         URL : "quiz"
 
-# portfolio
-portfolio:
+# expo
+expo:
  enable : true
  title : "Featured Entries"
- item_show : 5
+ item_show : 3
   # portfolio item comes from 'data/portfolio.yml' item.
 
  #testimonial
