@@ -62,6 +62,6 @@ Sections:
 
 ****
 
-**You can view the submissions [here](https://literary-iitt.github.io/winners/ease-your-pace-sub)**
+**You can view the submissions [here](/winners/ease-your-pace-sub)**
 
 ****
