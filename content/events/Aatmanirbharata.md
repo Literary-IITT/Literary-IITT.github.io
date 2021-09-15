@@ -40,8 +40,10 @@ The next year will mark a momentous milestone in India's history, the 75th Indep
 ****
 
 #### Judgement Criteria
+
 - Adherence to the topic (10%)
-- Content
+- Content:
+
   + Originality (25%)
   + Creativity (20%)
   + Clarity (15%)
@@ -62,4 +64,7 @@ The next year will mark a momentous milestone in India's history, the 75th Indep
 
 ****
 
+**You can view the submissions [here](/expo/aatmanirbharata-sub)**
+
+****
 

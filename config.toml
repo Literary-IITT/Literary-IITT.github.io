@@ -44,7 +44,7 @@ name = "Quiz Club"
 weight = 3
 
 [[menu.main]]
-URL = "winners"
+URL = "expo"
 name = "Literary Expo"
 weight = 4
 

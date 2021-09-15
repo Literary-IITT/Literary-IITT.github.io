@@ -1,14 +1,14 @@
 ---
-title: "Ease Your Pace"
+title: "Submissions for Ease Your Pace"
 date: 2021-09-15T00:00:00+05:30
-image: "images/Entries/Writing.jpg"
+image: "images/Expo/Writing.jpg"
 description: "This is meta description."
 club: "Write-Ups"
 ayear: "2021-22"
 draft: false
 ---
 
-### Notable submissions from Ease Your Pace
+### Notable Submissions for Ease Your Pace
 
 
 ****

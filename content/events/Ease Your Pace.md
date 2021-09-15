@@ -62,6 +62,6 @@ Sections:
 
 ****
 
-**You can view the submissions [here](/winners/ease-your-pace-sub)**
+**You can view the submissions [here](/expo/ease-your-pace-sub)**
 
 ****
