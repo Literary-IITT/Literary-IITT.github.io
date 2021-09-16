@@ -36,7 +36,32 @@ Shri Guru Tegh Bahadur Ji was the ninth of the ten gurus who founded the Sikh re
 
 ****
 
-**Registrations Closed. Results will be announced soon.**
+#### Judging:
+
+The judging will be based on the presentation and the relevance of the essay in the theme chosen by the participants. The decision made by the judges will be final.
+
+- ● Hindi judge - Dr. Reetesh Kumar Gangwar
+
+****
+
+#### Prizes:
+Prizes worth 3000 will be awarded by the institute to the authors of the top two essays in
+each language category.
+
+****
+
+**Results Declared:**
+
+``` 
+Hindi: 
+1) Saurabh Kumar (CS20B038)
+2) Saurav Gwalia (CS19B035)
+
+English:
+1) Sneha M (ME20B052)
+2) Kammara Kavyasree (ME18B012)
+
+```
 
 
 
