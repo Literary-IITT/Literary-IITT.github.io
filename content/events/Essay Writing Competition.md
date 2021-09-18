@@ -63,5 +63,12 @@ English:
 
 ```
 
+**Featured Submissions:**
 
+```
+Muskan (PH20M008)
+Prabhleen (CS21D503)
+Sachin Kumar Sahu (CS20B034)
+
+```
 
