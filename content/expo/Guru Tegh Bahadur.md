@@ -15,15 +15,19 @@ draft: false
 
 
 #### Hindi: 
-##### 1) Saurabh Kumar (CS20B038) 👉[Submission](https://drive.google.com/file/d/1hK02JEwhdsjnYAL6VXgVvJeGXAcrW3XP/view?usp=sharing)👈
-##### 2) Saurav Gwalia (CS19B035) 👉[Submission](https://drive.google.com/file/d/1b-0AHCN5sSr5I4THJV-7GlQayJQEMS8L/view?usp=sharing)👈
+##### 1) Saurabh Kumar (CS20B038) 
+👉[Submission](https://drive.google.com/file/d/1hK02JEwhdsjnYAL6VXgVvJeGXAcrW3XP/view?usp=sharing)👈
+##### 2) Saurav Gwalia (CS19B035) 
+👉[Submission](https://drive.google.com/file/d/1b-0AHCN5sSr5I4THJV-7GlQayJQEMS8L/view?usp=sharing)👈
 
 
 
 
 #### English:
-##### 1) Sneha M (ME20B052) 👉[Submission](https://drive.google.com/file/d/1xDTdA70AKAvg9EZG30Pxx8XdNYmOsd53/view?usp=sharing)👈
-##### 2) Kammara Kavyasree (ME18B012) 👉[Submission](https://drive.google.com/file/d/1VmDB6ed-n-e4HPs0mWNwcPreEBI99pEW/view?usp=sharing)👈
+##### 1) Sneha M (ME20B052) 
+👉[Submission](https://drive.google.com/file/d/1xDTdA70AKAvg9EZG30Pxx8XdNYmOsd53/view?usp=sharing)👈
+##### 2) Kammara Kavyasree (ME18B012) 
+👉[Submission](https://drive.google.com/file/d/1VmDB6ed-n-e4HPs0mWNwcPreEBI99pEW/view?usp=sharing)👈
 
 
 ****
