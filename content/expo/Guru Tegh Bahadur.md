@@ -24,7 +24,7 @@ draft: false
 
 
 #### English:
-##### 1) Sneha M (ME20B052) 
+##### 1) Sneha M S (ME20B052) 
 👉[Submission](https://drive.google.com/file/d/1xDTdA70AKAvg9EZG30Pxx8XdNYmOsd53/view?usp=sharing)👈
 ##### 2) Kammara Kavyasree (ME18B012) 
 👉[Submission](https://drive.google.com/file/d/1VmDB6ed-n-e4HPs0mWNwcPreEBI99pEW/view?usp=sharing)👈
