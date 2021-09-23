@@ -40,6 +40,7 @@ Shri Guru Tegh Bahadur Ji was the ninth of the ten gurus who founded the Sikh re
 
 The judging will be based on the presentation and the relevance of the essay in the theme chosen by the participants. The decision made by the judges will be final.
 
+- ● English judge - Dr. Bibhuti Kachhap
 - ● Hindi judge - Dr. Reetesh Kumar Gangwar
 
 ****
