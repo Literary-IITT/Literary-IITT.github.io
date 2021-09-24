@@ -72,4 +72,8 @@ Prabhleen (CS21D503)
 Sachin Kumar Sahu (CS20B034)
 
 ```
+****
 
+**You can view the submissions [here](/expo/guru-tegh-bahadur-sub)**
+
+****

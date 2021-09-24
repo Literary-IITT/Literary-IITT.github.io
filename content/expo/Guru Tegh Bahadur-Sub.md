@@ -12,7 +12,7 @@ draft: false
 
 ****
 >Winning Entry - Hindi
->#### श्रीगुरु तेग बहादुर जी एवं उनसे प्राप्त सीखें                                                                        
+>#### श्रीगुरु तेग बहादुर जी एवं उनसे प्राप्त सीखें                                                               
 >[Handwritten Submission](https://drive.google.com/file/d/1hK02JEwhdsjnYAL6VXgVvJeGXAcrW3XP/view?usp=sharing)   
 
 *Saurabh Kumar (CS20B038)*
@@ -80,12 +80,9 @@ Guru Tej Bahadhur, the ninth guru of the Sikhs, was a well-trained swordsman. De
 
 ****
 
-#### Featured Entries
->[Muskan (PH20M008)](https://drive.google.com/file/d/1Ix5_JqdAeqcj9l7sUgajG2Nx4KztjZo3/view)
+#### Featured Submissions
+[Muskan (PH20M008)](https://drive.google.com/file/d/1Ix5_JqdAeqcj9l7sUgajG2Nx4KztjZo3/view) | [Prabhleen (CS21D503)](https://drive.google.com/file/d/1D7NyV-LeNalvFWEtWLXCCOP3gJ7b5xsT/view) | [Sachin Kumar Sahu (CS20B034)](https://drive.google.com/file/d/1a_c936eBk1tXpfzILrl_SwbnQS7zrARb/view)
 
->[Prabhleen (CS21D503)](https://drive.google.com/file/d/1D7NyV-LeNalvFWEtWLXCCOP3gJ7b5xsT/view) 
-     
->[Sachin Kumar Sahu (CS20B034)](https://drive.google.com/file/d/1a_c936eBk1tXpfzILrl_SwbnQS7zrARb/view)
 ****      
 
 
