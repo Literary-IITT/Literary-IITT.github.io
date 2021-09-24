@@ -76,8 +76,17 @@ Guru Tej Bahadhur, the ninth guru of the Sikhs, was a well-trained swordsman. De
 >##### Conclusion 
 >Guru Tegh Bahadur proclaims to master the art of self-control; overcome greed, desires, ego, pain, and pleasure and be in a quiescent state of mind in all conditions to attain transcendental divinity and bliss. To contemplate on Lord’s eternal name for salvation by realizing that the material world is transitory, and enhance love for him to tame the fickle mind and succeed spiritually. In his hymns, he emphasized self-discipline and self-reflection and the basis of all social life must be Dharma (morality). The ability to control /lower one’s passions and to establish contact with God lies within oneself.
 
+*Kammara Kavyasree (ME18B012)*
+
 ****
 
+#### Featured Entries
+>[Muskan (PH20M008)](https://drive.google.com/file/d/1Ix5_JqdAeqcj9l7sUgajG2Nx4KztjZo3/view)
+
+>[Prabhleen (CS21D503)](https://drive.google.com/file/d/1D7NyV-LeNalvFWEtWLXCCOP3gJ7b5xsT/view) 
+     
+>[Sachin Kumar Sahu (CS20B034)](https://drive.google.com/file/d/1a_c936eBk1tXpfzILrl_SwbnQS7zrARb/view)
+****      
 
 
 
