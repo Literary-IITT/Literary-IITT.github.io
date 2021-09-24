@@ -51,8 +51,6 @@ Guru Tej Bahadhur, the ninth guru of the Sikhs, was a well-trained swordsman. De
 *Sneha M S (ME20B052)*
 
 ****
-
-<<<<<<< HEAD
 >Winning Entry - English
 >#### Lessons to be learned from the teachings of Shri Guru Tegh Bahadur Ji.  
 >It is the story of a great saint-martyr who sacrificed his life to uphold the values of righteousness, truth, and religious freedom, supporting Guru Nanak’s egalitarian ideology of securing human rights and Freedom of Religion. Guru Tegh Bahadur was born on 1st April 1621 in Amritsar, Punjab, and executed under on the orders of Mughal emperor Aurangzeb in the year 1675. He is versatile. He is a prophet, a poet, a martyr, a philosopher. 
