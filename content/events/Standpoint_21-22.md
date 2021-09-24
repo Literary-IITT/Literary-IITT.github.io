@@ -54,9 +54,10 @@ Top 5 or 6 speakers will be asked to present the same speech in the finals with 
 ****
 
 #### Results:
-
-- Winner: *Chaitali Karekar*
-- Runner-Up: *Ishaan Kulkarni*
+```
+Winner: Chaitali Karekar
+Runner-Up: Ishaan Kulkarni
+```
 
 ****
 

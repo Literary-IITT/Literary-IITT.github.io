@@ -59,7 +59,7 @@ Hindi:
 2) Saurav Gwalia (CS19B035)
 
 English:
-1) Sneha M (ME20B052)
+1) Sneha M S (ME20B052)
 2) Kammara Kavyasree (ME18B012)
 
 ```

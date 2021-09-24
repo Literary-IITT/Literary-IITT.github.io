@@ -59,8 +59,11 @@ The next year will mark a momentous milestone in India's history, the 75th Indep
 ****
 
 #### Results: 
-- Winner: *Mohd Aasim Khan*
-- Joint Runners: *S Ram Mohith and Talha Shamim*
+```
+Winner: Mohd Aasim Khan
+Joint Runners: S Ram Mohith and Talha Shamim
+
+```
 
 ****
 

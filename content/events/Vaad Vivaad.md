@@ -46,11 +46,12 @@ The event might be split into multiple rounds or a single round depending on the
 ****
 
 #### Results:
-
-- Winners: *Shreyansh Mehra and Mohd Aasim Khan*
-- Runners Up: *Krithi Shailya and Sathyanarayan*
-- Second Runners Up: *Raunak Agrawal and KJ Mathew*
-- Best Team Name: *Benaami (Talha Shamim and Anu Anand Annu)*
+```
+Winners: Shreyansh Mehra and Mohd Aasim Khan
+Runners Up: Krithi Shailya and Sathyanarayan
+Second Runners Up: Raunak Agrawal and KJ Mathew
+Best Team Name: Benaami (Talha Shamim and Anu Anand Annu)
+```
 
 ****
 

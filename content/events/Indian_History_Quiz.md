@@ -28,9 +28,11 @@ As we celebrate 75 years of Indian Independence, the quiz club invites you to pa
 ****
 
 #### Results:
-- Winner: *Umaeshwer Shankar* 
-- Runner-Up: *Sneha M S*
-- Joint Second Runners: *Singana Siddharth and Sushant Nasare*
+```
+Winner: Umaeshwer Shankar 
+Runner: Sneha M S
+Joint Second Runners: Singana Siddharth and Sushant Nasare
+```
 
 ****
 
