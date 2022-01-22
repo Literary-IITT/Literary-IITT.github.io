@@ -18,12 +18,10 @@ liveevents:
   item:
     - title : "Standpoint 2K22 Freshers Edition" 
       deadline : 2022-01-24
-      hours : 400
+      hours : 405       
       button:
        enable: true
        link1 : "events/standpoint-2k22"
-      button:
-       enable: true
        link2 : "https://forms.gle/gRJcpLvgyK96e6KW6"     
       color : "#44A7C4"
      
