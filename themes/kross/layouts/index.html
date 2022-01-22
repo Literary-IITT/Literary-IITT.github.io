@@ -88,11 +88,16 @@
             <div class="card-footer bg-white">
               <h3 class="card-title">{{.title }}</h3><h4> Deadline: {{.deadline}}</h4>
             </div>
-            {{ $path := printf "events/%s" .title}}
-            <a href="{{$path | urlize}}" class="btn btn-light">Know More</a>
             {{ if .button.enable }}
                 {{ with .button }}
-                <a href='{{.link | absURL }}' target="_blank" rel="noopener noreferrer" class="btn btn-light">Register</a>
+                 <a href="{{.link1 | absURL}}" class="btn btn-light">Know More</a>
+                {{ end }}
+            {{ end }}
+
+           
+            {{ if .button.enable }}
+                {{ with .button }}
+                <a href='{{.link2 | absURL }}' target="_blank" rel="noopener noreferrer" class="btn btn-light">Register</a>
                 {{ end }}
             {{ end }}
             </a>

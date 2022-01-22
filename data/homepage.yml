@@ -13,15 +13,18 @@ about:
 
 # liveevents
 liveevents:
-  enable : false
+  enable : true
   title : "Active Events"
   item:
-    - title : "" 
-      deadline : 
+    - title : "Standpoint 2K22 Freshers Edition" 
+      deadline : 2022-01-24
       hours : 400
       button:
        enable: true
-       link : ""     
+       link1 : "events/standpoint-2k22"
+      button:
+       enable: true
+       link2 : "https://forms.gle/gRJcpLvgyK96e6KW6"     
       color : "#44A7C4"
      
 
