@@ -13,7 +13,7 @@ about:
 
 # liveevents
 liveevents:
-  enable : true
+  enable : false
   title : "Active Events"
   item:
     - title : "Standpoint 2K22 Freshers Edition" 

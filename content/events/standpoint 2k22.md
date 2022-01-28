@@ -53,7 +53,11 @@ Top 5 or 6 speakers will be asked to present the same speech in the finals with 
 
 ****
 
-**You can fill the registration form [here]( https://forms.gle/gRJcpLvgyK96e6KW6)**
+#### Results:
+```
+Winner: Keshav Kumar Manjhi
+Runner-Up: Kommineni Sai Vignesh
+```
 
 
 
