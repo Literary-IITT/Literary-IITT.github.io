@@ -9,7 +9,7 @@ draft: false
 ---
 #### Summary: 
 
-Debate and Oratory Club IITT comes back with Standpoint, our an annual exposition/public speaking event; Gear up for the first oratory event of this academic year and win exciting prizes worth up to 5000. We hope to see active participation from your side!
+Debate and Oratory Club IITT comes back with Standpoint, our an annual exposition/public speaking event; Gear up for the first oratory event of this academic year and win exciting prizes worth up to 1500. We hope to see active participation from your side!
 
 ****
 
